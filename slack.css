@@ -10,21 +10,80 @@
     display: flex;
     background-color: black;
     justify-content: space-between;
-    color: aliceblue;
+    background-color: #4a154b;
 }
 
 .container .heading img {
-    width: 100px;
-    height: 60px;
+    margin-left: 20px;
+    width: 150px;
+    height: 80px;
 }
 
-
-/* .nav-links-end {
+.nav-links {
     display: flex;
-    justify-content: flex-end;
     align-items: center;
+    margin-right: 200px;
 }
- */
+
+.nav-links a {
+    text-decoration: none;
+    color: aliceblue;
+    padding-right: 20px;
+    font-size: small;
+    font-weight: 700;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.nav-links-end {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.nav-links-end button {
+    background-color: #4a154b;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+    margin-right: 10px;
+    border: 1px solid white;
+}
+
+.nav-links-end i {
+    padding-right: 20px;
+    color: white;
+    font-weight: 600;
+}
+
+.nav-links-end .but {
+    padding: 10px 20px;
+}
+
+.nav-links-end .butt {
+    background-color: #fff;
+    padding: 10px 20px;
+    color: black;
+    margin-right: 20px;
+}
+
+.nav-links-end .but:hover {
+    box-shadow: 0px 0px 10px #fff;
+}
+
+.nav-links-end .butt:hover {
+    box-shadow: 0px 0px 10px #fff;
+}
+
+
+/* -------------------navbar finish--------------- */
+
+
+/* ----------------------section-1--------------------- */
+
+.container1 {
+    width: 100%;
+    display: flex;
+}
 
 
 /* -sidebar-color: #400d40;
