@@ -9,7 +9,8 @@
     height: 80px;
     display: flex;
     background-color: black;
-    color: white;
+    justify-content: space-between;
+    color: aliceblue;
 }
 
 .container .heading img {
@@ -17,11 +18,13 @@
     height: 60px;
 }
 
-.nav-links-end {
+
+/* .nav-links-end {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
 }
+ */
 
 
 /* -sidebar-color: #400d40;
