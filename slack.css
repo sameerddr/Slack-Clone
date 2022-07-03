@@ -1,0 +1,9 @@
+.container {
+    width: 100%;
+    height: 80px;
+}
+
+.container .heading img {
+    width: 100px;
+    height: 60px;
+}
