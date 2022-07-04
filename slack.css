@@ -309,7 +309,7 @@ ul li a:hover {
 .container5 {
     width: 100%;
     height: 100px;
-    background-color: aliceblue;
+    background-color: whitesmoke;
     /* padding-top: 20px; */
 }
 
@@ -328,7 +328,7 @@ ul li a:hover {
 
 p {
     padding-left: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
     font-size: smaller;
 }
 
@@ -346,6 +346,5 @@ p {
 /* -sidebar-color: #400d40;
     --sidebar-highlight-color: #1264a3;
     --attachment-color: #000;
-    --more-count: '+1';
     --article-theme-primary: #4a154b;
     --article-theme-secondary: #fff; */
